@@ -1,5 +1,5 @@
 # quadcopter-design
-This repo contains the matalb work related to the quadcopter flight controller project
+This repo contains the matalb work related to the quadcopter flight controller project (in progress).
 
 ### Modelling and Control System Design
 A non-linear quadcopter model was developped, and linearised about the hover position for linear control system design. The non-linear system is then used to validate the control system.
